@@ -2,4 +2,4 @@
 
 this project was created from local system
 
-this project is created by mr prakhar raj singhal
+this project is created by mr prakhar raj singhal.
